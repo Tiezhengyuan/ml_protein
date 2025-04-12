@@ -1,0 +1,4 @@
+-s pdb/3UKM_A.pdb
+-out:path:all relax/
+-relax:constrain_relax_to_start_coords
+-nstruct 5

@@ -1,0 +1,3 @@
+-parser:protocol symm/symm_design.xml
+-s pdb/3UKM_A.pdb
+-out:path:all symm/
