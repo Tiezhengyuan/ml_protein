@@ -1,8 +1,12 @@
-# ml_protein
-computational protein
+# Protein Design
+computational protein design
+
+## Membrane Protein
+### Desing using Rosetta
+ - 3UKM
 
 
-
+## Datasets
 cd data/protein_folding
 
 
