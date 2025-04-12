@@ -2,7 +2,7 @@
 computational protein design
 
 ## 1. Membrane Protein
-### Desing using Rosetta
+### 1.1 Design using Rosetta
  - 3UKM
 
 
