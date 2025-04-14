@@ -1,0 +1,102 @@
+{
+    "docked": [
+        {
+            "file": "docking/3PBL_ETQ_0001.pdb",
+            "rmsd": {
+                "all": 0.25,
+                "chain_X_centroid": 1.17,
+                "chain_X_ligand": 0.99,
+                "chain_X_superimposed": 0.99,
+                "ligand_sc": 0.65
+            },
+            "scores": {
+                "ligand_centroid_travel_X": "0.790934",
+                "ligand_is_touching_X": "1",
+                "ligand_radius_of_gyration_X": "3.65887",
+                "ligand_rms_no_super_X": "0.994495",
+                "ligand_rms_with_super_X": "0.454391",
+                "total_score": "-771.385",
+                "total_score_X": "-46"
+            }
+        },
+        {
+            "file": "docking/3PBL_ETQ_0002.pdb",
+            "rmsd": {
+                "all": 0.21,
+                "chain_X_centroid": 1.06,
+                "chain_X_ligand": 0.38,
+                "chain_X_superimposed": 0.38,
+                "ligand_sc": 0.55
+            },
+            "scores": {
+                "ligand_centroid_travel_X": "0.211039",
+                "ligand_is_touching_X": "1",
+                "ligand_radius_of_gyration_X": "3.65097",
+                "ligand_rms_no_super_X": "0.377849",
+                "ligand_rms_with_super_X": "9.94274e-08",
+                "total_score": "-781.79",
+                "total_score_X": "-47"
+            }
+        },
+        {
+            "file": "docking/3PBL_ETQ_0003.pdb",
+            "rmsd": {
+                "all": 0.21,
+                "chain_X_centroid": 1.02,
+                "chain_X_ligand": 0.25,
+                "chain_X_superimposed": 0.25,
+                "ligand_sc": 0.54
+            },
+            "scores": {
+                "ligand_centroid_travel_X": "0.125884",
+                "ligand_is_touching_X": "1",
+                "ligand_radius_of_gyration_X": "3.65097",
+                "ligand_rms_no_super_X": "0.253137",
+                "ligand_rms_with_super_X": "9.94274e-08",
+                "total_score": "-797.724",
+                "total_score_X": "-47"
+            }
+        },
+        {
+            "file": "docking/3PBL_ETQ_0004.pdb",
+            "rmsd": {
+                "all": 0.22,
+                "chain_X_centroid": 1.06,
+                "chain_X_ligand": 0.38,
+                "chain_X_superimposed": 0.38,
+                "ligand_sc": 0.54
+            },
+            "scores": {
+                "ligand_centroid_travel_X": "0.214267",
+                "ligand_is_touching_X": "1",
+                "ligand_radius_of_gyration_X": "3.65097",
+                "ligand_rms_no_super_X": "0.377264",
+                "ligand_rms_with_super_X": "7.03058e-08",
+                "total_score": "-792.119",
+                "total_score_X": "-47"
+            }
+        },
+        {
+            "file": "docking/3PBL_ETQ_0005.pdb",
+            "rmsd": {
+                "all": 0.21,
+                "chain_X_centroid": 1.05,
+                "chain_X_ligand": 0.35,
+                "chain_X_superimposed": 0.35,
+                "ligand_sc": 0.54
+            },
+            "scores": {
+                "ligand_centroid_travel_X": "0.121709",
+                "ligand_is_touching_X": "1",
+                "ligand_radius_of_gyration_X": "3.65097",
+                "ligand_rms_no_super_X": "0.35407",
+                "ligand_rms_with_super_X": "7.03058e-08",
+                "total_score": "-792.293",
+                "total_score_X": "-47"
+            }
+        }
+    ],
+    "native": {
+        "file": "docking/crystal_complex.pdb"
+    }
+}
