@@ -4,9 +4,10 @@ computational protein design
 ## 1. Membrane Protein
 ### 1.1 Design using Rosetta
  - 3UKM
+## 2. Protein-Ligand Docking
+### 2.1 G-protein using Rosseta
 
-
-## 2. Datasets
+## 5. Datasets
 cd data/protein_folding
 
 For `assembly1` complexes, use the PDB's `20240101` AWS snapshot:
