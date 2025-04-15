@@ -1,15 +1,15 @@
 # Protein Design
 computational protein design
 
-## 1. Membrane Protein
-### 1.1 Design using Rosetta
- - 3UKM
-## 2. Docking: Protein-Ligand
-### 2.1 Design using Rosseta
- - G-protein ~ ligand
-## 3. Docking: Antigen-Antibody
-### 3.1 Design using Rosseta
- - 3GBN ~ 3GBM
+## 1. Protein Design
+### 1.1 Membrane Protein
+ - Rosetta: 3UKM
+## 2. Docking: Protein - Small Molecule
+### 2.1 Protein ~ Ligand
+ - Rosetta: G-protein ~ ligand
+## 3. Docking: Protein ~ Protein
+### 3.1 Antigen-Antibody
+ - Rosetta: 3GBN ~ 3GBM
 ## 5. Datasets
 cd data/protein_folding
 
