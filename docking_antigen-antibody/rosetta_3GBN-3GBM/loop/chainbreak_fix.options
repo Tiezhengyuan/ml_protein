@@ -1,0 +1,16 @@
+-s pdb/3gbn_Ab.pdb
+-loops:loop_file loop/chainbreak_fix.loops
+-loops:fast
+-loops:max_kic_build_attempts 200
+-in:file:fullatom
+-out:file:fullatom
+-ex1
+-ex2
+-use_input_sc
+-loops:remodel perturb_kic
+-loops:refine refine_kic
+-out:file:scorefile chainbreak_fix.fasc
+-score:weights talaris2014.wts
+-corrections::restore_talaris_behavior true
+-out:path:all loop/
+-nstruct 10

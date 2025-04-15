@@ -1,0 +1,14 @@
+-parser:protocol analysis/docking_analysis.xml
+-in:file:l analysis/file_list.txt
+#-native docking/3gbm_HA_3gbn_Ab.pdb
+-native docking/best_docking_full.pdb
+-score:weights talaris2014.wts
+-use_input_sc
+-ex1
+-ex2
+-corrections::restore_talaris_behavior true
+-out:file:scorefile docking_analysis.csv
+-out:no_nstruct_label
+-out:file:score_only
+-out:path:all analysis/
+-overwrite true

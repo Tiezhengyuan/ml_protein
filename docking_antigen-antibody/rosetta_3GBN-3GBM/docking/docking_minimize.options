@@ -1,0 +1,18 @@
+-docking:partners AB_HL
+-docking:dock_pert 3 8
+-docking:dock_mcm_trans_magnitude 0.1
+-docking:dock_mcm_rot_magnitude 5.0
+-run:max_retry_job 10
+-score:weights talaris2014.wts
+-use_input_sc
+-ex1
+-ex2
+-out:suffix _minimize
+-corrections::restore_talaris_behavior true
+
+-parser:protocol docking/docking_minimize.xml
+-s docking/3gbm_HA_3gbn_Ab.pdb
+-out:file:scorefile docking_minimize.fasc
+-out:path:all docking/
+-database /home/yuan/data/rosetta/main/database/
+-nstruct 50

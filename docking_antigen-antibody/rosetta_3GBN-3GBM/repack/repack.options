@@ -1,0 +1,13 @@
+-parser:protocol repack/repack.xml
+-s loop/3gbn_Ab_fixed.pdb
+-in:file:fullatom
+-out:file:fullatom
+-linmem_ig 10
+-ex1
+-ex2
+-use_input_sc
+-score:weights talaris2014.wts
+-out:file:scorefile repack.fasc
+-out:path:all repack/
+-corrections::restore_talaris_behavior true
+-nstruct 10
