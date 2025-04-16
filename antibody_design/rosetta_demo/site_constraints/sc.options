@@ -1,0 +1,11 @@
+-s pdb/my_ab.pdb
+-primary_cdrs H3
+-graft_design_cdrs H3 
+-seq_design_cdrs H1 H2 
+-light_chain lambda 
+-do_dock 
+-use_epitope_constraints
+
+-nstruct 1
+-out:path:all site_constraints/
+-overwrite

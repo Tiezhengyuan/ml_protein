@@ -1,0 +1,14 @@
+-s pdb/my_ab.pdb
+-primary_cdrs L1 L2 L3
+-graft_design_cdrs L1 L2 L3 
+-seq_design_cdrs L1 L2 L3 
+-light_chain lambda
+-do_dock
+-use_epitope_constraints
+-paratope L1 L2 L3
+-epitope 63A 63A:A 64
+-random_star
+
+-nstruct 50
+-out:path:all ./denovo_design/
+-overwrite
