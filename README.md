@@ -14,7 +14,7 @@ computational protein design
 ### 3.1 Antigen-Antibody
  - Rosetta: 3GBN ~ 3GBM
 ### 3.2 design binder
- - RFDiffusion: insulin receptor
+ - denovo design for insulin receptor 3W11s using RFDiffusion
 ## 5. Datasets
 cd data/protein_folding
 
