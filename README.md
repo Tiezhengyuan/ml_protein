@@ -9,11 +9,12 @@ computational protein design
 ## 2. Docking: Protein - Small Molecule
 ### 2.1 Protein ~ Ligand
  - Rosetta: G-protein ~ ligand
- - RFDiffusion: design binder of insulin receptor
+ 
 ## 3. Docking: Protein ~ Protein
 ### 3.1 Antigen-Antibody
  - Rosetta: 3GBN ~ 3GBM
-
+### 3.2 design binder
+ - RFDiffusion: insulin receptor
 ## 5. Datasets
 cd data/protein_folding
 
