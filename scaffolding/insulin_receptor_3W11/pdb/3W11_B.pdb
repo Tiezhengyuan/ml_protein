@@ -1,0 +1,193 @@
+HEADER    HORMONE/HORMONE RECEPTOR/IMMUNE SYSTEM  06-NOV-12   3W11              
+TITLE     INSULIN RECEPTOR ECTODOMAIN CONSTRUCT COMPRISING DOMAINS L1-CR IN     
+TITLE    2 COMPLEX WITH HUMAN INSULIN, ALPHA-CT PEPTIDE(704-719) AND FAB 83-7   
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: INSULIN A CHAIN;                                           
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES;                                                     
+COMPND   5 MOL_ID: 2;                                                           
+COMPND   6 MOLECULE: INSULIN B CHAIN;                                           
+COMPND   7 CHAIN: B;                                                            
+COMPND   8 ENGINEERED: YES;                                                     
+COMPND   9 MOL_ID: 3;                                                           
+COMPND  10 MOLECULE: MONOCLONAL ANTIBODY FAB 83-7 FRAGMENT - HEAVY CHAIN;       
+COMPND  11 CHAIN: C;                                                            
+COMPND  12 ENGINEERED: YES;                                                     
+COMPND  13 MOL_ID: 4;                                                           
+COMPND  14 MOLECULE: MONOCLONAL ANTIBODY FAB 83-7 FRAGMENT - LIGHT CHAIN;       
+COMPND  15 CHAIN: D;                                                            
+COMPND  16 ENGINEERED: YES;                                                     
+COMPND  17 MOL_ID: 5;                                                           
+COMPND  18 MOLECULE: INSULIN RECEPTOR DOMAINS L1-CR;                            
+COMPND  19 CHAIN: E;                                                            
+COMPND  20 FRAGMENT: UNP RESIDUES 28-337;                                       
+COMPND  21 SYNONYM: INSULIN RECEPTOR L1-CR; IR310.T, INSULIN RECEPTOR SUBUNIT   
+COMPND  22 ALPHA;                                                               
+COMPND  23 EC: 2.7.10.1;                                                        
+COMPND  24 ENGINEERED: YES;                                                     
+COMPND  25 MOL_ID: 6;                                                           
+COMPND  26 MOLECULE: INSULIN RECEPTOR ALPHA-CT PEPTIDE;                         
+COMPND  27 CHAIN: F;                                                            
+COMPND  28 FRAGMENT: UNP RESIDUES 731-746;                                      
+COMPND  29 SYNONYM: INSULIN RECEPTOR SUBUNIT ALPHA;                             
+COMPND  30 EC: 2.7.10.1;                                                        
+COMPND  31 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
+SOURCE   3 ORGANISM_COMMON: HUMAN;                                              
+SOURCE   4 ORGANISM_TAXID: 9606;                                                
+SOURCE   5 GENE: INS;                                                           
+SOURCE   6 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
+SOURCE   7 EXPRESSION_SYSTEM_COMMON: YEAST;                                     
+SOURCE   8 EXPRESSION_SYSTEM_TAXID: 4932;                                       
+SOURCE   9 MOL_ID: 2;                                                           
+SOURCE  10 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
+SOURCE  11 ORGANISM_COMMON: HUMAN;                                              
+SOURCE  12 ORGANISM_TAXID: 9606;                                                
+SOURCE  13 GENE: INS;                                                           
+SOURCE  14 EXPRESSION_SYSTEM: SACCHAROMYCES CEREVISIAE;                         
+SOURCE  15 EXPRESSION_SYSTEM_COMMON: YEAST;                                     
+SOURCE  16 EXPRESSION_SYSTEM_TAXID: 4932;                                       
+SOURCE  17 MOL_ID: 3;                                                           
+SOURCE  18 ORGANISM_SCIENTIFIC: MUS MUSCULUS;                                   
+SOURCE  19 ORGANISM_COMMON: MOUSE;                                              
+SOURCE  20 ORGANISM_TAXID: 10090;                                               
+SOURCE  21 EXPRESSION_SYSTEM: MUS MUSCULUS;                                     
+SOURCE  22 EXPRESSION_SYSTEM_COMMON: MOUSE;                                     
+SOURCE  23 EXPRESSION_SYSTEM_TAXID: 10090;                                      
+SOURCE  24 EXPRESSION_SYSTEM_CELL: HYBRIDOMA CELL;                              
+SOURCE  25 MOL_ID: 4;                                                           
+SOURCE  26 ORGANISM_SCIENTIFIC: MUS MUSCULUS;                                   
+SOURCE  27 ORGANISM_COMMON: MOUSE;                                              
+SOURCE  28 ORGANISM_TAXID: 10090;                                               
+SOURCE  29 EXPRESSION_SYSTEM: MUS MUSCULUS;                                     
+SOURCE  30 EXPRESSION_SYSTEM_COMMON: MOUSE;                                     
+SOURCE  31 EXPRESSION_SYSTEM_TAXID: 10090;                                      
+SOURCE  32 EXPRESSION_SYSTEM_CELL: HYBRIDOMA CELL;                              
+SOURCE  33 MOL_ID: 5;                                                           
+SOURCE  34 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
+SOURCE  35 ORGANISM_COMMON: HUMAN;                                              
+SOURCE  36 ORGANISM_TAXID: 9606;                                                
+SOURCE  37 GENE: INSR;                                                          
+SOURCE  38 EXPRESSION_SYSTEM: CRICETULUS GRISEUS;                               
+SOURCE  39 EXPRESSION_SYSTEM_COMMON: CHINESE HAMSTER;                           
+SOURCE  40 EXPRESSION_SYSTEM_TAXID: 10029;                                      
+SOURCE  41 EXPRESSION_SYSTEM_CELL_LINE: LEC8 MUTANT;                            
+SOURCE  42 EXPRESSION_SYSTEM_CELL: CHO CELL;                                    
+SOURCE  43 MOL_ID: 6;                                                           
+SOURCE  44 SYNTHETIC: YES;                                                      
+SOURCE  45 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
+SOURCE  46 ORGANISM_COMMON: HUMAN;                                              
+SOURCE  47 ORGANISM_TAXID: 9606;                                                
+SOURCE  48 OTHER_DETAILS: CHEMICAL SYNTHESIS                                    
+ATOM      1  N   CYS B   7      23.083 -39.507 -22.128  1.00287.33           N  
+ATOM      2  CA  CYS B   7      24.018 -39.178 -23.210  1.00270.78           C  
+ATOM      3  C   CYS B   7      24.483 -40.408 -24.018  1.00261.92           C  
+ATOM      4  O   CYS B   7      25.406 -40.280 -24.829  1.00255.15           O  
+ATOM      5  CB  CYS B   7      25.208 -38.376 -22.679  1.00276.61           C  
+ATOM      6  SG  CYS B   7      26.606 -39.390 -22.112  1.00274.06           S  
+ATOM      7  N   GLY B   8      23.848 -41.561 -23.772  1.00256.47           N  
+ATOM      8  CA  GLY B   8      24.140 -42.863 -24.372  1.00247.56           C  
+ATOM      9  C   GLY B   8      24.639 -42.825 -25.797  1.00242.62           C  
+ATOM     10  O   GLY B   8      25.851 -42.775 -26.024  1.00239.31           O  
+ATOM     11  N   SER B   9      23.699 -42.793 -26.758  1.00235.90           N  
+ATOM     12  CA  SER B   9      23.936 -42.753 -28.203  1.00229.92           C  
+ATOM     13  C   SER B   9      25.191 -41.975 -28.605  1.00228.74           C  
+ATOM     14  O   SER B   9      25.924 -42.402 -29.500  1.00222.77           O  
+ATOM     15  CB  SER B   9      22.709 -42.183 -28.910  1.00237.44           C  
+ATOM     16  OG  SER B   9      22.894 -42.058 -30.310  1.00245.11           O  
+ATOM     17  N   HIS B  10      25.454 -40.862 -27.905  1.00229.48           N  
+ATOM     18  CA  HIS B  10      26.582 -39.972 -28.160  1.00229.74           C  
+ATOM     19  C   HIS B  10      27.945 -40.612 -27.968  1.00228.40           C  
+ATOM     20  O   HIS B  10      28.772 -40.537 -28.874  1.00224.88           O  
+ATOM     21  CB  HIS B  10      26.372 -38.599 -27.499  1.00239.29           C  
+ATOM     22  CG  HIS B  10      24.968 -38.108 -27.720  1.00247.89           C  
+ATOM     23  ND1 HIS B  10      24.457 -37.935 -29.000  1.00248.15           N  
+ATOM     24  CD2 HIS B  10      23.973 -37.896 -26.827  1.00256.75           C  
+ATOM     25  CE1 HIS B  10      23.193 -37.578 -28.840  1.00253.58           C  
+ATOM     26  NE2 HIS B  10      22.855 -37.542 -27.551  1.00260.07           N  
+ATOM     27  N   LEU B  11      28.121 -41.374 -26.878  1.00224.31           N  
+ATOM     28  CA  LEU B  11      29.349 -42.113 -26.635  1.00220.35           C  
+ATOM     29  C   LEU B  11      29.563 -43.122 -27.746  1.00213.44           C  
+ATOM     30  O   LEU B  11      30.707 -43.467 -28.014  1.00210.09           O  
+ATOM     31  CB  LEU B  11      29.328 -42.818 -25.271  1.00223.46           C  
+ATOM     32  CG  LEU B  11      30.517 -43.719 -24.972  1.00237.27           C  
+ATOM     33  CD1 LEU B  11      31.810 -42.912 -24.897  1.00239.73           C  
+ATOM     34  CD2 LEU B  11      30.227 -44.626 -23.787  1.00248.39           C  
+ATOM     35  N   VAL B  12      28.483 -43.599 -28.394  1.00206.59           N  
+ATOM     36  CA  VAL B  12      28.696 -44.525 -29.499  1.00202.44           C  
+ATOM     37  C   VAL B  12      29.243 -43.701 -30.674  1.00205.45           C  
+ATOM     38  O   VAL B  12      30.299 -44.040 -31.205  1.00204.14           O  
+ATOM     39  CB  VAL B  12      27.587 -45.608 -29.829  1.00205.60           C  
+ATOM     40  CG1 VAL B  12      27.914 -46.379 -31.107  1.00204.69           C  
+ATOM     41  CG2 VAL B  12      27.398 -46.610 -28.684  1.00208.18           C  
+ATOM     42  N   GLU B  13      28.636 -42.554 -30.964  1.00203.72           N  
+ATOM     43  CA  GLU B  13      29.133 -41.704 -32.037  1.00204.95           C  
+ATOM     44  C   GLU B  13      30.592 -41.283 -31.748  1.00205.32           C  
+ATOM     45  O   GLU B  13      31.497 -41.619 -32.515  1.00202.78           O  
+ATOM     46  CB  GLU B  13      28.244 -40.467 -32.186  1.00211.92           C  
+ATOM     47  CG  GLU B  13      26.745 -40.742 -32.215  1.00234.54           C  
+ATOM     48  CD  GLU B  13      25.854 -39.637 -31.660  1.00296.90           C  
+ATOM     49  OE1 GLU B  13      26.344 -38.498 -31.466  1.00330.97           O  
+ATOM     50  OE2 GLU B  13      24.657 -39.916 -31.417  1.00310.07           O  
+ATOM     51  N   ALA B  14      30.804 -40.612 -30.603  1.00202.89           N  
+ATOM     52  CA  ALA B  14      32.087 -40.109 -30.126  1.00204.10           C  
+ATOM     53  C   ALA B  14      33.166 -41.170 -30.080  1.00204.06           C  
+ATOM     54  O   ALA B  14      34.284 -40.891 -30.488  1.00203.54           O  
+ATOM     55  CB  ALA B  14      31.923 -39.483 -28.755  1.00209.55           C  
+ATOM     56  N   LEU B  15      32.846 -42.389 -29.596  1.00199.23           N  
+ATOM     57  CA  LEU B  15      33.833 -43.477 -29.518  1.00197.84           C  
+ATOM     58  C   LEU B  15      34.324 -43.804 -30.905  1.00205.85           C  
+ATOM     59  O   LEU B  15      35.529 -43.983 -31.082  1.00207.07           O  
+ATOM     60  CB  LEU B  15      33.293 -44.733 -28.802  1.00195.38           C  
+ATOM     61  CG  LEU B  15      34.214 -45.931 -28.736  1.00198.02           C  
+ATOM     62  CD1 LEU B  15      35.375 -45.665 -27.824  1.00196.45           C  
+ATOM     63  CD2 LEU B  15      33.478 -47.177 -28.378  1.00201.20           C  
+ATOM     64  N   TYR B  16      33.415 -43.803 -31.904  1.00204.88           N  
+ATOM     65  CA  TYR B  16      33.857 -44.056 -33.259  1.00207.24           C  
+ATOM     66  C   TYR B  16      34.728 -42.941 -33.769  1.00217.21           C  
+ATOM     67  O   TYR B  16      35.831 -43.231 -34.240  1.00219.71           O  
+ATOM     68  CB  TYR B  16      32.738 -44.335 -34.236  1.00208.60           C  
+ATOM     69  CG  TYR B  16      33.290 -44.899 -35.525  1.00213.47           C  
+ATOM     70  CD1 TYR B  16      34.429 -45.703 -35.528  1.00216.97           C  
+ATOM     71  CD2 TYR B  16      32.658 -44.660 -36.736  1.00217.40           C  
+ATOM     72  CE1 TYR B  16      34.937 -46.232 -36.707  1.00223.10           C  
+ATOM     73  CE2 TYR B  16      33.153 -45.189 -37.923  1.00223.22           C  
+ATOM     74  CZ  TYR B  16      34.281 -45.991 -37.900  1.00235.81           C  
+ATOM     75  OH  TYR B  16      34.779 -46.510 -39.064  1.00248.29           O  
+ATOM     76  N   LEU B  17      34.264 -41.673 -33.653  1.00215.99           N  
+ATOM     77  CA  LEU B  17      35.027 -40.489 -34.071  1.00219.88           C  
+ATOM     78  C   LEU B  17      36.518 -40.762 -33.823  1.00225.37           C  
+ATOM     79  O   LEU B  17      37.320 -40.845 -34.764  1.00226.87           O  
+ATOM     80  CB  LEU B  17      34.618 -39.265 -33.205  1.00222.36           C  
+ATOM     81  CG  LEU B  17      33.694 -38.194 -33.743  1.00229.22           C  
+ATOM     82  CD1 LEU B  17      33.625 -37.015 -32.754  1.00233.73           C  
+ATOM     83  CD2 LEU B  17      34.177 -37.690 -35.086  1.00234.67           C  
+ATOM     84  N   VAL B  18      36.832 -41.001 -32.539  1.00221.81           N  
+ATOM     85  CA  VAL B  18      38.142 -41.245 -31.991  1.00224.51           C  
+ATOM     86  C   VAL B  18      38.833 -42.434 -32.634  1.00233.80           C  
+ATOM     87  O   VAL B  18      39.982 -42.294 -33.032  1.00238.60           O  
+ATOM     88  CB  VAL B  18      38.066 -41.330 -30.450  1.00227.64           C  
+ATOM     89  CG1 VAL B  18      39.446 -41.309 -29.827  1.00231.49           C  
+ATOM     90  CG2 VAL B  18      37.243 -40.180 -29.917  1.00229.19           C  
+ATOM     91  N   CYS B  19      38.134 -43.564 -32.805  1.00230.31           N  
+ATOM     92  CA  CYS B  19      38.709 -44.813 -33.317  1.00233.09           C  
+ATOM     93  C   CYS B  19      39.318 -44.937 -34.697  1.00243.85           C  
+ATOM     94  O   CYS B  19      40.543 -45.081 -34.781  1.00248.64           O  
+ATOM     95  CB  CYS B  19      37.823 -45.995 -32.990  1.00231.16           C  
+ATOM     96  SG  CYS B  19      37.814 -46.398 -31.237  1.00234.35           S  
+ATOM     97  N   GLY B  20      38.478 -45.029 -35.737  1.00240.50           N  
+ATOM     98  CA  GLY B  20      38.920 -45.235 -37.112  1.00245.28           C  
+ATOM     99  C   GLY B  20      39.226 -46.693 -37.400  1.00251.26           C  
+ATOM    100  O   GLY B  20      39.217 -47.095 -38.563  1.00255.73           O  
+ATOM    101  N   GLU B  21      39.491 -47.497 -36.331  1.00245.76           N  
+ATOM    102  CA  GLU B  21      39.816 -48.930 -36.363  1.00272.81           C  
+ATOM    103  C   GLU B  21      39.275 -49.662 -35.128  1.00270.54           C  
+ATOM    104  O   GLU B  21      39.534 -50.855 -34.943  1.00225.71           O  
+ATOM    105  CB  GLU B  21      41.329 -49.132 -36.458  1.00299.61           C  
+ATOM    106  CG  GLU B  21      41.882 -48.902 -37.847  1.00333.09           C  
+ATOM    107  CD  GLU B  21      43.392 -48.951 -37.940  1.00352.49           C  
+ATOM    108  OE1 GLU B  21      44.046 -49.242 -36.913  1.00341.30           O  
+ATOM    109  OE2 GLU B  21      43.923 -48.704 -39.047  1.00364.82           O  
+TER     110      GLU B  21                                                       
+END   

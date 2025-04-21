@@ -1,0 +1,28 @@
+ALA,ARG,ASN,ASP,CYS,GLN,GLU,GLY,HIS,ILE,LEU,LYS,MET,PHE,PRO,SER,THR,TRP,TYR,VAL,UNK,MAS
+ N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  , N  
+ CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA , CA 
+ C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  , C  
+ O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  , O  
+ CB , CB , CB , CB , CB , CB , CB ,, CB , CB , CB , CB , CB , CB , CB , CB , CB , CB , CB , CB , CB , CB 
+, CG , CG , CG , SG , CG , CG ,, CG , CG1, CG , CG , CG , CG , CG , OG , OG1, CG , CG , CG1,,
+, CD , OD1, OD1,, CD , CD ,, ND1, CG2, CD1, CD , SD , CD1, CD ,, CG2, CD1, CD1, CG2,,
+, NE , ND2, OD2,, OE1, OE1,, CD2, CD1, CD2, CE , CE , CD2,,,, CD2, CD2,,,
+, CZ ,,,, NE2, OE2,, CE1,,, NZ ,, CE1,,,, NE1, CE1,,,
+, NH1,,,,,,, NE2,,,,, CE2,,,, CE2, CE2,,,
+, NH2,,,,,,,,,,,, CZ ,,,, CE3, CZ ,,,
+,,,,,,,,,,,,,,,,, CZ2, OH ,,,
+,,,,,,,,,,,,,,,,, CZ3,,,,
+,,,,,,,,,,,,,,,,, CH2,,,,
+ H  , H  , H  , H  , H  , H  , H  , H  , H  , H  , H  , H  , H  , H  , HA , H  , H  , H  , H  , H  , H  , H  
+ HA , HA , HA , HA , HA , HA , HA ,1HA , HA , HA , HA , HA , HA , HA ,1HB , HG , HG1, HA , HA , HA , HA , HA 
+1HB ,1HB ,1HB ,1HB ,1HB ,1HB ,1HB ,2HA ,1HB , HB ,1HB ,1HB ,1HB ,1HB ,2HB , HA , HA ,1HB ,1HB , HB ,1HB ,1HB 
+2HB ,2HB ,2HB ,2HB ,2HB ,2HB ,2HB ,,2HB ,1HG2,2HB ,2HB ,2HB ,2HB ,1HG ,1HB , HB ,2HB ,2HB ,1HG1,2HB ,2HB 
+3HB ,1HG ,1HD2,, HG ,1HG ,1HG ,, HD2,2HG2, HG ,1HG ,1HG , HD1,2HG ,2HB ,1HG2, HD1, HD1,2HG1,3HB ,3HB 
+,2HG ,2HD2,,,2HG ,2HG ,, HE1,3HG2,1HD1,2HG ,2HG , HD2,1HD ,,2HG2, HE1, HE1,3HG1,,
+,1HD ,,,,1HE2,,, HE2,1HG1,2HD1,1HD ,1HE , HE1,2HD ,,3HG2, HZ2, HE2,1HG2,,
+,2HD ,,,,2HE2,,,,2HG1,3HD1,2HD ,2HE , HE2,,,, HH2, HD2,2HG2,,
+, HE ,,,,,,,,1HD1,1HD2,1HE ,3HE , HZ ,,,, HZ3, HH ,3HG2,,
+,1HH1,,,,,,,,2HD1,2HD2,2HE ,,,,,, HE3,,,,
+,2HH1,,,,,,,,3HD1,3HD2,1HZ ,,,,,,,,,,
+,1HH2,,,,,,,,,,2HZ ,,,,,,,,,,
+,2HH2,,,,,,,,,,3HZ ,,,,,,,,,,
