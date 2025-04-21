@@ -15,6 +15,8 @@ computational protein design
  - Rosetta: 3GBN ~ 3GBM
 ### 3.2 design binder
  - denovo design for insulin receptor 3W11s using RFDiffusion
+### 3.3 scaffolding
+ - insulin receptor 3W11
 ## 5. Datasets
 cd data/protein_folding
 
