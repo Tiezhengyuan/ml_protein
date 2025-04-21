@@ -2,9 +2,9 @@
 computational protein design
 
 ## 1. Protein Design
-_ ### 1.1 Membrane Protein
+### 1.1 Membrane Protein
  - Rosetta: 3UKM
-_ ### 1.2 Antibody Design
+### 1.2 Antibody Design
  - Rosetta: demo Ab
 ## 2. Docking: Protein - Small Molecule
 ### 2.1 Protein ~ Ligand
