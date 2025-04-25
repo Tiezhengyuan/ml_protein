@@ -8,6 +8,7 @@ computational protein design
  - Rosetta: demo Ab
 ### 1.3 Design Backbone
  - design monomer using RFDiffusion
+ - design homotrimer using ProteinMPNN
 ### 1.4 motif scaffolding
  - design motif scaffolding
 ## 2. Docking: Protein - Small Molecule
