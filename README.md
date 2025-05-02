@@ -27,7 +27,7 @@ computational protein design
 ### 4.1
  - protein-ligand complex from PDB
 
-### 4.5
+### 4.2
 cd data/protein_folding
 
 For `assembly1` complexes, use the PDB's `20240101` AWS snapshot:
