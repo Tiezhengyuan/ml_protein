@@ -1,3 +1,8 @@
+# customary
+protein-ligand/protein_ligand_complex/data*/
+protein-ligand/protein_ligand_complex/parse_complexes.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
